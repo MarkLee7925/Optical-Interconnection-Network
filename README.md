@@ -4,11 +4,13 @@ The aim of this project is to analyze the channel utilization of an Optical Inte
 
 ## Datasets:
 
-The .csv file used in this project contains 640 performance measurements. Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
+The .csv file used in this project contains 640 samples, each indicating a performance measurement. Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
 
-## Model:
+## Results:
 
-This project utilizes a Deep Neural Network (DNN). 
+This project utilizes a Deep Neural Network (DNN) to predict the Channel Utilization trends. The original dataset contains 640 samples. However, 10 of them were outliers in that those samples indicated the Channel Utilization (dependent variable) was over 100%.
+
+The actual results are illustrated and found in the cleaned version of the project (Optical_Interconnection_Network_DNN_cleaned.ipynb). However the original, raw dataset was used to illustrate the effects of random noise and interference in a seperate script (Optical_Interconnection_Network_DNN_original.ipynb).
 
 ## References:
 
