@@ -8,7 +8,9 @@ The .csv file used in this project contains 640 performance measurements. Additi
 
 ## Model:
 
-This project utilizes a Deep Neural Network (DNN).
+This project utilizes a Deep Neural Network (DNN). 
+
+Compared to the research conducted by M.F. Akay, Ç.İ. Aci, F. Abut, the data presented contained several outliers (i.e: Channel Utilization over 100%).
 
 ## References:
 
