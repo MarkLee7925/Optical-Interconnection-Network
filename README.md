@@ -4,7 +4,7 @@ The aim of this project is to analyze the channel utilization of a network.
 
 ## Datasets:
 
-The .csv file usedin this project contains 640 samples and is located in the data folder.
+The .csv file usedin this project contains 640 samples. Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
 
 ## Model:
 
