@@ -14,6 +14,7 @@ The actual results are illustrated and found in the cleaned version of the proje
 
 ## References:
 
-- https://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+
 - Aci, Ç.İ. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907.
+- https://archive.ics.uci.edu/ml/datasets/Optical+Interconnection+Network+
 - M.F. Akay, Ç.İ. Aci, F. Abut, Predicting the Performance Measures of a 2-Dimensional Message Passing Multiprocessor Architecture by Using Machine Learning Methods. Neural Network World 71(5):1907-1931. DOI: 10.14311/NNW.2015.25.013.
+- https://www.researchgate.net/publication/270959098_Predicting_the_Performance_Measures_of_a_2-Dimensional_Message_Passing_Multiprocessor_Architecture_by_Using_Machine_Learning_Methods
