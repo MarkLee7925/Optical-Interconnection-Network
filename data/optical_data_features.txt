@@ -1,0 +1,20 @@
+Node Number: The number of the nodes in the network. (8x8 or 4x4).
+
+Thread Number: The number of threads in each node at the beginning of the simulation.
+
+Spatial Distribution: The performance of the network is evaluated using synthetic traffic workloads. Uniform (UN), Hot Region (HR), Bit reverse (BR) and Perfect Shuffle (PS) traffic models have been included.
+
+Temporal Distribution: Temporal distribution of packet generation is implemented by independent traffic sources. In our simulations, we utilized client-server traffic (i.e., a server node sends packets to respond to the reception of packets from clients) and asynchronous traffic (i.e., initially, all nodes generate traffic independently of the others; as time progresses, traffic generation at the source/destination nodes depends
+on the receipt of messages from destination/source nodes).
+
+T/R: Message transfer time (T) Uniformly distributed with mean in range from 20 to 100 clock cycles. Thread run time (R) Exponentially distributed with a mean of 100 clock cycles.
+
+Processor Utilization: The average processor utilization measures the percent of time that threads are running in the processor.
+
+Channel Waiting Time: Average waiting time of a packet at the output channel queue until it is serviced by the channel.
+
+Input Waiting Time: Average waiting time of a packet until it is serviced by the processor.
+
+Network Response Time: The time between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.
+
+Channel Utilization: The percent of time that the channel is busy transferring packets to the network.
