@@ -8,7 +8,7 @@ The .csv file used in this project contains 640 samples, each indicating a perfo
 
 Although the original dataset contains 640 samples, 10 of them were outliers which indicated the Channel Utilization was over 100%. To ensure more consistent results, these samples were removed for prediction.
 
-## Results:
+## Models:
 
 The following models were implemented in this project:
 
