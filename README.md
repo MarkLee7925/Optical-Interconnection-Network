@@ -4,7 +4,7 @@ The aim of this project was to analyze the Channel Utilization of an Optical Int
 
 ## Datasets:
 
-The .csv file used in this project contained 640 samples, each indicating a performance measurement (feature). Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
+The .csv file used in this project contained 640 samples, each indicating a performance measurement. Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
 
 Although the original dataset contained 640 samples, 10 of them were outliers which indicated the Channel Utilization was over 100%. To ensure more consistent results, these samples were removed for prediction.
 
