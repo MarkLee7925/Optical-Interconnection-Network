@@ -1,12 +1,12 @@
 # Optical-Interconnection-Network
 
-The aim of this project is to analyze the Channel Utilization of an Optical Interconnection Network. Based on the research conducted by M.F. Akay, Ç.İ. Aci and F. Abut (see References), multiple metrics were used to determine the performance of a 2-dimensional Simultaneous Optical Multiprocessor Exchange Bus (2D SOME-Bus) implementation of a multiprocessor architecture. 
+The aim of this project was to analyze the Channel Utilization of an Optical Interconnection Network. Based on the research conducted by M.F. Akay, Ç.İ. Aci and F. Abut (see References), multiple metrics were used to determine the performance of a 2-dimensional Simultaneous Optical Multiprocessor Exchange Bus (2D SOME-Bus) implementation of a multiprocessor architecture. 
 
 ## Datasets:
 
-The .csv file used in this project contains 640 samples, each indicating a performance measurement (feature). Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
+The .csv file used in this project contained 640 samples, each indicating a performance measurement (feature). Additional information about each feature can be found in the optical_data_features.txt file. Both files are located in the data folder.
 
-Although the original dataset contains 640 samples, 10 of them were outliers which indicated the Channel Utilization was over 100%. To ensure more consistent results, these samples were removed for prediction.
+Although the original dataset contained 640 samples, 10 of them were outliers which indicated the Channel Utilization was over 100%. To ensure more consistent results, these samples were removed for prediction.
 
 ## Models:
 
@@ -17,7 +17,7 @@ The following models were implemented in this project:
 - XGBoost (XGB)
 - Deep Neural Network (DNN)
 
-For the DNN model, the actual results are illustrated and found in the cleaned version of the project (Optical_DNN_cleaned.ipynb). The original, raw dataset was used to showcase the effects of random noise and interference in a seperate script (Optical_DNN_original.ipynb). This is done for illustration purposes only.
+For the DNN model, the actual results were illustrated and found in the cleaned version of the project (Optical_DNN_cleaned.ipynb). The original, raw dataset was used to showcase the effects of random noise and interference in a seperate script (Optical_DNN_original.ipynb). This was done for illustration purposes only.
 
 ## References:
 
