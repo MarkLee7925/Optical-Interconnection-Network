@@ -1,6 +1,6 @@
 # Optical-Interconnection-Network
 
-The aim of this project is to analyze the channel utilization of an Optical Interconnection Network. Based on the research conducted by M.F. Akay, Ç.İ. Aci and F. Abut (see References), multiple metrics were used to determine the performance of a 2-dimensional Simultaneous Optical Multiprocessor Exchange Bus (2D SOME-Bus) implementation of a multiprocessor architecture. 
+The aim of this project is to analyze the Channel Utilization of an Optical Interconnection Network. Based on the research conducted by M.F. Akay, Ç.İ. Aci and F. Abut (see References), multiple metrics were used to determine the performance of a 2-dimensional Simultaneous Optical Multiprocessor Exchange Bus (2D SOME-Bus) implementation of a multiprocessor architecture. 
 
 ## Datasets:
 
