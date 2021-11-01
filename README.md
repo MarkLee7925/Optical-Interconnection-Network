@@ -12,7 +12,7 @@ Although the original dataset contained 640 samples, 10 of them were outliers wh
 
 The following models were implemented in this project:
 
-- (Multiple) Linear Regression (LR)
+- Linear Regression (LR)
 - Linear Support Vector Regression (Linear SVR)
 - Kernel Support Vector Regression (Kernel SVR)
 - XGBoost (XGB)
