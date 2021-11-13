@@ -1,4 +1,4 @@
-Features:
+List of features used in this project:
 
 - Node Number: The number of the nodes in the network. (8x8 or 4x4).
 
