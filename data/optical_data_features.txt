@@ -27,3 +27,5 @@ mean of 100 clock cycles.
 - Network Response Time: The time (in ms) between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.
 
 - Channel Utilization: The percent of time that the channel is busy transferring packets to the network.
+
+*Note that the Processor and Channel Utilization are decimal values. Multiply by 100% to obtain percentage values.
