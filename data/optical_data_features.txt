@@ -18,7 +18,7 @@ on the receipt of messages from destination/source nodes).
 - T/R: Message transfer time (T) Uniformly distributed with mean in range from 20 to 100 clock cycles. Thread run time (R) Exponentially distributed with a 
 mean of 100 clock cycles.
 
-- Processor Utilization: The average processor utilization (%) measures the percent of time that threads are running in the processor.
+- Processor Utilization: The average processor utilization measures the percent of time that threads are running in the processor.
 
 - Channel Waiting Time: Average waiting time (in ms) of a packet at the output channel queue until it is serviced by the channel.
 
@@ -26,4 +26,4 @@ mean of 100 clock cycles.
 
 - Network Response Time: The time (in ms) between a request message is enqueued at the output channel and the corresponding data message is received in the input queue.
 
-- Channel Utilization: The percent (%) of time that the channel is busy transferring packets to the network.
+- Channel Utilization: The percent of time that the channel is busy transferring packets to the network.
