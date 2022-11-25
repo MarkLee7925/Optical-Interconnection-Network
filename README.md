@@ -20,6 +20,10 @@ The following regression models were implemented in this project:
 
 For the DNN model, the actual results were illustrated and found in the cleaned version of the project (Optical_DNN_Reg_cleaned.ipynb). The original, raw dataset was used to showcase the effects of random noise and interference in a seperate script (Optical_DNN_Reg_original.ipynb). This was done for illustration purposes only.
 
+## Dashboard:
+
+A Power BI dashboard (Optical1.pbix) was created to illustrate some of the most important data and Machine Learning results at a glance.
+
 ## References:
 
 - Aci, Ç.İ. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907.
