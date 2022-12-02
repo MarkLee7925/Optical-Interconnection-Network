@@ -24,7 +24,7 @@ For the DNN model, the actual results were illustrated and found in the cleaned 
 
 A Power BI dashboard (OpticalBI.pbix) was created to illustrate some of the most important data and Machine Learning results at a glance.
 
-![OptialBI]Opticalbi.jpeg
+![OptialBI](OpticalBI.jpeg)
 
 ## References:
 
