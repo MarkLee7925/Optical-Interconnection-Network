@@ -24,6 +24,8 @@ For the DNN model, the actual results were illustrated and found in the cleaned 
 
 A Power BI dashboard (OpticalBI.pbix) was created to illustrate some of the most important data and Machine Learning results at a glance.
 
+![OptialBI]Opticalbi.jpeg
+
 ## References:
 
 - Aci, Ç.İ. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907.
