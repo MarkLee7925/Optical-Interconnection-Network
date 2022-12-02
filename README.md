@@ -26,6 +26,10 @@ A Power BI dashboard (OpticalBI.pbix) was created to illustrate some of the most
 
 ![OptialBI](OpticalBI.jpeg)
 
+![OpticalBI](https://user-images.githubusercontent.com/59748085/205374740-903092c3-641e-46ea-93e6-663a64d61442.JPG)
+
+
+
 ## References:
 
 - Aci, Ç.İ. & Akay, M.F. A hybrid congestion control algorithm for broadcast-based architectures with multiple input queues. J Supercomput (2015) 71: 1907.
