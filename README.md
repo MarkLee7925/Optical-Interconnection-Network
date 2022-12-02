@@ -20,10 +20,6 @@ The following regression models were implemented in this project:
 
 For the DNN model, the actual results were illustrated and found in the cleaned version of the project (Optical_DNN_Reg_cleaned.ipynb). The original, raw dataset was used to showcase the effects of random noise and interference in a seperate script (Optical_DNN_Reg_original.ipynb). This was done for illustration purposes only.
 
-## Dashboard:
-
-A Power BI dashboard (OpticalBI.pbix) was created to illustrate some of the most important data and Machine Learning results at a glance.
-
 ![OpticalBI](https://user-images.githubusercontent.com/59748085/205374740-903092c3-641e-46ea-93e6-663a64d61442.JPG)
 
 ## References:
